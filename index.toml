@@ -21,5 +21,5 @@ hash = "42265150218eb6dbc6d819c330e69c60968889423ff47cd8573933dc80b8895c"
 metafile = true
 
 [[files]]
-file = "mods/warfare-0.7.0.jar"
-hash = "a59810dd85f840e2eb7a7df069d877ef0d3e09aeeaee158c602b288bbf783e74"
+file = "mods/warfare-0.7.3.jar"
+hash = "dc6aa8fd8348a5cebb10f88cd16b29386dddcb8349be3450360d8da76166ab6b"
