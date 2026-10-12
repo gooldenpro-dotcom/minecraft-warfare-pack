@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "bb671c3efd852b24e1e1dc583392774d2aac4d553bff28b58071d6b97ad89581"
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
@@ -21,5 +25,5 @@ hash = "42265150218eb6dbc6d819c330e69c60968889423ff47cd8573933dc80b8895c"
 metafile = true
 
 [[files]]
-file = "mods/warfare-0.4.0.jar"
-hash = "545dc86574ff1ee31a936961389d6ef4ba028c27470c44aa6e0f8e56c18d0abb"
+file = "mods/warfare-0.5.0.jar"
+hash = "3b033144a787fa55062c160cb41a40683a4210f103298626f032fcd55c997aac"
