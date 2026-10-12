@@ -1,0 +1,25 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "fca852b6e4581ffa88d4c890a307a0a49fbd51d6acaed6c3648cb5db8dc460e0"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "42265150218eb6dbc6d819c330e69c60968889423ff47cd8573933dc80b8895c"
+metafile = true
+
+[[files]]
+file = "mods/warfare-0.4.0.jar"
+hash = "545dc86574ff1ee31a936961389d6ef4ba028c27470c44aa6e0f8e56c18d0abb"

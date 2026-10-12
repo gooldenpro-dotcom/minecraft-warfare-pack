@@ -1,0 +1,13 @@
+name = "Minecraft Warfare"
+author = "clement"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c8cd502a80e5029b10a4a82efbc16dc8e6fdf9df3b634ab0fecd5e30867a8203"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
